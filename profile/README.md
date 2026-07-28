@@ -13,7 +13,7 @@ Building next-generation <strong>Industrial IoT</strong>, <strong>Artificial Int
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Future%20Eagle%20IoT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/future-eagle-iot)
 [![GitHub](https://img.shields.io/badge/GitHub-Future--EagleIoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Future-EagleIoT)
-[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-Live-success?style=for-the-badge)](https://welcome.future-eagle-iot.workers.dev/)
+[![Visit Website](https://img.shields.io/badge/🌐%20Visit%20Website-Live-success?style=for-the-badge)](https://future-eagle-iot.org/)
 
 ---
 
