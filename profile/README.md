@@ -157,25 +157,6 @@ Monitoring --> Planning
 
 ---
 
-# 🌐 Technology Ecosystem
-
-```text
-                       Future Eagle IoT
-
-                   Artificial Intelligence
-                            │
-                            │
-      Industrial IoT ───── Digital Platform ───── Cloud
-                            │
-                            │
-                     Mobile Applications
-                            │
-                            │
-                   Industrial Automation
-```
-
----
-
 # 🛠 Technology Stack
 
 ## Embedded Systems
