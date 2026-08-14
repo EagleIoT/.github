@@ -308,7 +308,7 @@ We believe technology should be:
 ## 🌍 Connect With Future Eagle IoT
 
 🌐 **Website**  
-https://welcome.future-eagle-iot.workers.dev/
+https://future-eagle-iot.org/
 
 💼 **LinkedIn**  
 https://www.linkedin.com/company/future-eagle-iot
